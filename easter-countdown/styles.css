@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,600;1,200;1,400&display=swap');
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+
+body {
+    align-items: center;
+    background-image: url(img/christi-marcheschi-fQZOhgyMktg-unsplash.jpg);
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Poppins', sans-serif;
+    /* justify-content: center; */
+    margin: 0;
+    min-height: 100vh;
+}
+
+h1 {
+    font-size: 3rem;
+   
+}
+
+.big-text {
+    font-size: 5rem;
+    font-weight: bolder;
+    line-height: 1;
+    margin: 1rem 2rem;
+    color: #8a0303;
+}
+
+.countdown-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.countdown-el {
+    text-align: center;
+
+}
+
+.countdown-el span {
+    font-size: 0.9rem;
+}

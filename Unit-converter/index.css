@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Poppins:ital,wght@0,600;1,200;1,400&display=swap');
+
+
+
+
+
+body{   
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            align-items: center;
+            
+}
+
+h1 {
+    
+width: 448.4px;
+height: 38px;
+left: 51px;
+top: 53px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 22px;
+line-height: 38px;
+/* identical to box height, or 173% */
+
+letter-spacing: -0.05em;
+
+color: #FFFFFF;
+}
+
+
+p.number-to-convert{
+    
+   
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 97.5723px;
+    line-height: 24px;
+    /* or 25% */
+    
+    
+    
+    color: #FFFFFF;
+
+}
+
+
+
+
+
+.top-container {
+    
+padding: 1px;
+background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
+}
+
+
+
+.bottom-container {
+
+
+padding: 1px 10px 40px;
+
+background: #1F2937;
+}
+
+p.supporting-text {
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+
+
+color: #FFFFFF;
+}
+
+
+p.st {
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+
+
+color: #D2D2D2;
+}
